@@ -67,15 +67,8 @@ function PublicationFooter(props: any) {
               <span className="mr-2 block text-blue-600">
                 <HashnodeLogoIconV2 className="h-6 w-6 fill-current" />
               </span>
-              <span>Publish with Hashnode</span>
             </Link>
-            <p className="text-sm text-slate-600 dark:text-slate-300">
-              Powered by{' '}
-              <a aria-label="Hashnode" href="https://hashnode.com?source=blog-footer" className="underline">
-                Hashnode
-              </a>{' '}
-              - Home for tech writers and readers
-            </p>
+
           </div>
         )}
       </div>
